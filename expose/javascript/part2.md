@@ -28,7 +28,7 @@
     E. student.courseLoad[0];
 
 **Q13:**
-```
+```js
 A > '3'+2
 '32'
 
@@ -54,7 +54,7 @@ H > '3' - undefined
 NaN
 ```
 **Q14:**
-```
+```js
 A > '2'>1
 true
 
